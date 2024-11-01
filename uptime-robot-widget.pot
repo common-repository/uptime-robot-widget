@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Uptime Robot Widget\n"
+"POT-Creation-Date: 2021-08-10 11:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/settings.php:22
+msgid "Settings"
+msgstr ""
+
+#: includes/settings.php:83
+msgid "Unexpected error occurred, try again"
+msgstr ""
+
+#: includes/settings.php:136
+msgid "API key"
+msgstr ""
+
+#: includes/settings.php:138
+msgid "Test the API Key"
+msgstr ""
+
+#: includes/settings.php:139
+#, php-format
+msgid ""
+"To get your API key visit <a target=\"_blank\" href=\"%s\">Uptime Robot "
+"webpage</a>."
+msgstr ""
+
+#: includes/settings.php:143
+msgid "Uptime ratio"
+msgstr ""
+
+#: includes/settings.php:146
+msgid "Show uptime ratio"
+msgstr ""
+
+#: includes/settings.php:147
+msgid "In the period of"
+msgstr ""
+
+#: includes/settings.php:147
+msgid "days"
+msgstr ""
+
+#: includes/settings.php:148
+msgid "Leave 0 to use ratio since the monitor is created."
+msgstr ""
+
+#: includes/settings.php:153
+msgid "Public status page"
+msgstr ""
+
+#: includes/settings.php:156
+msgid "Show link to the public status page"
+msgstr ""
+
+#: includes/settings.php:157
+msgid "Get the list of public status pages"
+msgstr ""
+
+#: includes/settings.php:164
+msgid "Save settings"
+msgstr ""
+
+#: includes/settings.php:172
+msgid "If you like this plugin please give a review at WordPress.org."
+msgstr ""
+
+#: includes/widget.php:14
+msgid "paused"
+msgstr ""
+
+#: includes/widget.php:17
+msgid "n/d"
+msgstr ""
+
+#: includes/widget.php:20
+msgid "up"
+msgstr ""
+
+#: includes/widget.php:23
+msgid "seems down"
+msgstr ""
+
+#: includes/widget.php:26
+msgid "down"
+msgstr ""
+
+#: includes/widget.php:29
+msgid "unk"
+msgstr ""
+
+#: includes/widget.php:50 includes/widget.php:128
+msgid "More details on status page"
+msgstr ""
+
+#: includes/widget.php:53 includes/widget.php:132
+msgid ""
+"Oops! Something went wrong and failed to get the status, check again soon."
+msgstr ""
+
+#: includes/widget.php:113
+msgid "Status of the monitored services in the Uptime Robot service."
+msgstr ""
+
+#: includes/widget.php:142
+msgid "Loading"
+msgstr ""
+
+#: includes/widget.php:156
+msgid "Title"
+msgstr ""
+
+#: includes/widget.php:160
+#, php-format
+msgid "Enter API key in <a href=\"%s\">plugin settings</a>."
+msgstr ""
